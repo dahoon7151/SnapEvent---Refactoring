@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+ee1a34616ec8f43d8e9ed44d84667806501cef4f refs/heads/develop
+f5ea6e3aad14d29d9608197f1de14f47f2e6e616 refs/heads/feature
+52a2ec5ac562d88cc4928030b65ce5619cb48200 refs/heads/feature-board
+60db38395f5b7b5baad75f7a9b5fabd51b819033 refs/heads/feature-calendar
+7858a12ab09d21bca52c7eacfa0d470c96ddc901 refs/heads/feature-login
+40c5f2062651dc4672ff928352ce7c6b04488609 refs/heads/feature-notification
+54c0cefd39bf8bf97a31e61be435bdf5e1ed4bca refs/heads/feature-sub
+2d75cb3038c1382be35d30bf0506386054b696bc refs/heads/main
+625df7d6500da46b63a46ca7f838cc52317c9a3d refs/heads/temp
+d8e594ad14a6f6eeb6a93524158c9612a308e788 refs/remotes/origin/develop

@@ -59,6 +59,7 @@ public class SubscriptionServiceImpl implements SubscriptionService{
             SubscribeResponseDto subscribeResponseDto = new SubscribeResponseDto(se);
             subResponseList.add(subscribeResponseDto);
         }
+        log.info("서비스단 구독리스트 조회");
 
         return subResponseList;
     }
